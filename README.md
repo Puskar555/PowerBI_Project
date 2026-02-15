@@ -299,8 +299,8 @@ This project is available for educational and portfolio purposes.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+  - GitHub: [[@visit_on](https://github.com/Puskar555/PowerBI_Project/edit/main)]
+- LinkedIn: [LinkedIn](www.linkedin.com/in/puskar-raj-acharya)
 
 ---
 
